@@ -1,0 +1,115 @@
+{
+  "basic_info": {
+    "description_header": "Tomas är väldigt tekniskt intresserad, tävlingsinriktad och brinner för att skapa trivsel där han jobbar. Tomas hjälper gärna till kring pådrivande av projekt och skapande av en bra gruppdynamik, parallellt med programmering i projekt. Tomas jobbar gärna med fullstack, då han har både intresse och kompetens i hela stacken. ",
+    "description": "Tomas har varit verksam i IT-branschen sedan 2011, under den tiden har han hunnit jobbat som fullstack-utvecklare (.NET & Java), projektledare, Scrum master och haft personalansvar över en grupp utvecklare.",
+    "section_name": {
+      "about": "Om Tomas",
+      "projects": "Senaste projekten",
+      "skills": "Skills",
+      "experience": "Erfarenhet"
+    }
+  },
+  "projects": [
+    {
+      "title": "Dalakraft/Enkla elbolaget",
+      "startDate": "2020",
+      "description": "Tomas har jobbat med att hjälpa båda elhandelsbolagen att byta plattform från Microsoft Dynamics till ett egetutvecklat system för hantering av kunder för kundtjänst. Tomas har ingått i ett team på tre personer där Tomas har designat och satt arkitekturen för Frontenden",
+      "images": ["images/portfolio/dalakraft/dalakraft2.jpg"],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "Material UI"
+        }
+      ]
+    },
+    {
+      "title": "Matrix Solutions",
+      "startDate": "2019",
+      "description": "Tomas jobbade som Projektledare, scrummaster och deltidsutvecklare. Projektet var ett legacysystem med en stor och komplex kodbas, med gammal teknik som .Net Webforms och telerik. Förvaltning och nyutveckling av koden för att lyfta den till en nyare teknik, .net Core 3.2.",
+      "images": [
+        "images/portfolio/matrix/The.Matrix.glmatrix.2.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "Competence Team Leader",
+      "startDate": "2018",
+      "description": "Som CTL hade Tomas personalansvar över en grupp utvecklare om totalt nio personer. CTL-rollen innebar också att man är med och tar fram strategier och strategiplaner för kommande år för kontoret, sitter med i ledningsgruppen och bemanningsgruppen. Som CTL var man även väldigt involverad i rekryteringsprocessen.",
+      "images": [
+        "images/portfolio/chef/GS_20200624_KAJ63_8193_bw_low.jpg"
+      ],
+      "url": "",
+      "technologies": []
+    }
+  ],
+  "experience": [
+    {
+      "company": "Dalakraft/Enkla Elbolaget",
+      "title": "Front-End Developer",
+      "years": "05.2020 - present",
+      "mainTech": ["React"],
+      "technologies": [
+        "REST API",
+        "Typescript",
+        ".NET Core",
+        "SignalR",
+        "Material UI",
+        "Swagger"
+      ]
+    },
+    {
+      "company": "Matrix Solutions",
+      "title": "Team lead, Scrum master, Fullstack",
+      "years": "01.2019 - 04.2020",
+      "mainTech": ["C#", "Javascript"],
+      "technologies": ["Projektledare", "Scrum master", "Javascript", "Vue", "MsSql", ".NET Webforms", ".NET Core 3.2", "Legacy system"]
+    },
+    {
+      "company": "Cybercom",
+      "title": "Competence Team Leader",
+      "years": "01.2018 - 04.2020",
+      "mainTech": ["CTL"],
+      "technologies": []
+    },
+    {
+      "company": "Ericsson",
+      "title": "Power consumption calculation tool",
+      "years": "01.2017 - 01.2019",
+      "mainTech": ["C#", "Scrum master"],
+      "technologies": ["Fullstack", "Javascript", "Bootstrap 2", "MsSql", "Selenuim testing", "Jenkins CI", "IIS", "Jquery"]
+    },
+    {
+      "company": "Ericsson",
+      "title": "WinFIOL",
+      "years": "01.2016 - 01.2019",
+      "mainTech": ["C++"],
+      "technologies": ["CMake", "GCC (GNU Compiler Tool Chain)", "Java", "JavaScript", "Linux", "Linux Red Hat","Maven 3", "OpenSSH", "Tekniskt integrationsarbete", "OpenStack"," Qt 5", "Telnet", "SSH", "Ubuntu","VT100", "JBoss", "REST-Api" ]
+    },
+    {
+      "company": "Kontakta mig på tomas@valliconsulting.se för resten av CVt",
+      "title": "",
+      "years": "",
+      "mainTech": [],
+      "technologies": []
+    }
+  ]
+}
